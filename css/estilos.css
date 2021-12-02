@@ -16,6 +16,9 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    display: flex;
+    align-items: flex-start;
+    font-size: larger;
 }
 
 #cabecera #tagline
@@ -38,7 +41,18 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     padding: 1em;
 }
+
+#logo
+{
+    display: flex;
+    width: 80px;
+    height: 80px;
+    float: left;
+    align-items: flex-start;
+}
+
