@@ -56,3 +56,17 @@ body
     align-items: flex-start;
 }
 
+#footer
+{
+    background: rgb(74, 19, 126);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+    padding-left: 30em;
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    
+}
